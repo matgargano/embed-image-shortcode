@@ -6,6 +6,6 @@ Version: 0.1.0
 Author: Mat Gargano, Morgan and Morgan
 */
 
-require __DIR__ . '/inc/embed-image-shortcode.php'
+require __DIR__ . '/inc/embed-image-shortcode.php';
 
 Embed_Image_Shortcode::init();
